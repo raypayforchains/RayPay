@@ -38,7 +38,8 @@ Ray Pay is a powerful, user-friendly app designed to provide seamless Solana-bas
 
 ## Get Started
 
-1. **Download the App:** Available on iOS and Android.
+1. **Coming Soon** on iOS and Android!  
+   - **Check out the beta version by downloading the APK [here](#).**
 2. **Create Your Account:** Sign up using Decentralized Identity (DID) for a hassle-free experience.
 3. **Start Using Ray Pay:** Make payments, create escrows, or list your services for free!
 
