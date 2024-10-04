@@ -1,6 +1,6 @@
-# Ray - Solana-Based Mobile Payment App
+# RayPay - Solana-Based Mobile Payment App
 
-Ray is a mobile application that leverages Solana blockchain technology to enable decentralized finance (DeFi) payments. Users can make Solana payments to merchants or friends via QR codes, and merchants can apply for soundboxes to receive payment notifications. It's more than just a payment solution; Ray connects users to a decentralized world of apps, games, NFTs, and more.
+RayPay is a mobile application that leverages Solana blockchain technology to enable decentralized finance (DeFi) payments. Users can make Solana payments to merchants or friends via QR codes, and merchants can apply for soundboxes to receive payment notifications. RayPay is more than just a payment solution — it connects users to a decentralized ecosystem of apps, games, NFTs, and much more.
 
 ## Features
 
@@ -11,25 +11,38 @@ Ray is a mobile application that leverages Solana blockchain technology to enabl
 - **DeFi Solution**: Payments are processed through decentralized finance protocols.
 - **Open-Source and Secure**: Ensures security through open-source technology and decentralized architecture.
 
+## Empowering Global Brands with RayPay
+
+**RayPay** is not just built for individual users and small businesses. **Global brands and enterprises** that already use Solana for payments can now leverage **RayPay’s decentralized platform** to extend their reach and **promote their services to a fast-growing DeFi audience**. With RayPay, companies can gain access to a **decentralized advertising platform** to highlight their products, services, and innovations.
+
+### **Seamless In-App Payment Integration**
+
+For **businesses of all sizes**, RayPay offers an **effortless payment integration** with Solana. **No coding required!** With our **codeless integration**, companies can add **Solana-based in-app payments** in just a few clicks, revolutionizing the way they interact with the decentralized finance world.
+
+![App Screenshot 1](path-to-your-app-screenshot-1.png)
+![App Screenshot 2](path-to-your-app-screenshot-2.png)
+
+RayPay empowers businesses to be at the forefront of the Solana-powered payment revolution, making it simple to provide decentralized, secure, and lightning-fast transactions to their customers.
+
 ## APK and Web Links
 
-- **APK Download**: [Download Ray APK](https://raypay.s3.amazonaws.com/raypay.apk)
-- **Website Link**: [Landing Pange](https://raypay.online)
+- **APK Download**: [Download RayPay APK](https://raypay.s3.amazonaws.com/raypay.apk)
+- **Website Link**: [Landing Page](https://raypay.online)
 
 ## Smart Contract Links
 
-Ray leverages Solana smart contracts for payment processing, escrows, and more. Below are the contract details:
+RayPay leverages Solana smart contracts for payment processing, escrows, and more. Below are the contract details:
 
 - **DID Contract**: [View Contract](https://github.com/raypayforchains/RayPaySmartProgram)
 
 ## Repositories
 
-Ray's codebase is split into four repositories to handle various aspects of the app. You can find the code below:
+RayPay's codebase is split into four repositories to handle various aspects of the app. You can find the code below:
 
-- **Repo 1**: [Ray Frontend](https://github.com/raypayforchains/RayPayFrontend)
-- **Repo 2**: [Ray Backend](https://github.com/raypayforchains/RayPayBackend)
-- **Repo 3**: [Ray Mobile App](https://github.com/raypayforchains/RapPayMobileApp)
-- **Repo 4**: Ray Merchant Dashboard (**Coming Soon**)
+- **Repo 1**: [RayPay Frontend](https://github.com/raypayforchains/RayPayFrontend)
+- **Repo 2**: [RayPay Backend](https://github.com/raypayforchains/RayPayBackend)
+- **Repo 3**: [RayPay Mobile App](https://github.com/raypayforchains/RapPayMobileApp)
+- **Repo 4**: RayPay Merchant Dashboard (**Coming Soon**)
 
 ## How It Works
 
@@ -39,7 +52,7 @@ Ray's codebase is split into four repositories to handle various aspects of the 
 
 ## Contributing
 
-We welcome contributions to Ray! Please follow the guidelines in each repository for contribution details.
+We welcome contributions to RayPay! Please follow the guidelines in each repository for contribution details.
 
 ## License
 
