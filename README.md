@@ -28,8 +28,8 @@ Ray leverages Solana smart contracts for payment processing, escrows, and more. 
 Ray's codebase is split into four repositories to handle various aspects of the app. You can find the code below:
 
 - **Repo 1**: [Ray Frontend](https://github.com/raypayforchains/RayPayFrontend)
-- **Repo 2**: [Ray Backend](https://github.com/yourusername/RayPayBackend)
-- **Repo 3**: [Ray Mobile App](https://github.com/yourusername/RayPayMobileApp)
+- **Repo 2**: [Ray Backend](https://github.com/raypayforchains/RayPayBackend)
+- **Repo 3**: [Ray Mobile App](https://github.com/raypayforchains/RayPayMobileApp)
 - **Repo 4**: Ray Merchant Dashboard (**Coming Soon**)
 
 ## How It Works
