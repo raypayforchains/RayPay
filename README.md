@@ -14,14 +14,13 @@ Ray is a mobile application that leverages Solana blockchain technology to enabl
 ## APK and Web Links
 
 - **APK Download**: [Download Ray APK](https://raypay.s3.amazonaws.com/raypay.apk)
-- **Pay Link**: [Ray Payment Gateway](https://raypay.online)
+- **Website Link**: [Landing Pange](https://raypay.online)
 
 ## Smart Contract Links
 
 Ray leverages Solana smart contracts for payment processing, escrows, and more. Below are the contract details:
 
-- **Solana Program ID**: `2FCmh5tZDnu7V1wFjwj6JSuGs2nVkBViUKh8zkXYiRQF`
-- **DID Contract**: [View Contract](https://explorer.solana.com/address/YourEscrowContractAddress)
+- **DID Contract**: [View Contract](https://github.com/raypayforchains/RayPaySmartProgram)
 
 ## Repositories
 
