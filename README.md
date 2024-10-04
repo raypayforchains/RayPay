@@ -19,8 +19,8 @@ RayPay is a mobile application that leverages Solana blockchain technology to en
 
 For **businesses of all sizes**, RayPay offers an **effortless payment integration** with Solana. **No coding required!** With our **codeless integration**, companies can add **Solana-based in-app payments** in just a few clicks, revolutionizing the way they interact with the decentralized finance world.
 
-![App Screenshot 1](path-to-your-app-screenshot-1.png)
-![App Screenshot 2](path-to-your-app-screenshot-2.png)
+![App Screenshot 1](https://raypay.s3.amazonaws.com/images/Screenshot_1727951122-portrait.png)
+![App Screenshot 2](https://raypay.s3.amazonaws.com/images/Screenshot_1727951108-portrait.png)
 
 RayPay empowers businesses to be at the forefront of the Solana-powered payment revolution, making it simple to provide decentralized, secure, and lightning-fast transactions to their customers.
 
