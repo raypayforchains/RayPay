@@ -13,24 +13,23 @@ Ray is a mobile application that leverages Solana blockchain technology to enabl
 
 ## APK and Web Links
 
-- **APK Download**: [Download Ray APK](https://reay.online)
-- **Pay Link**: [Ray Payment Gateway](https://raypay.com)
+- **APK Download**: [Download Ray APK](https://raypay.s3.amazonaws.com/raypay.apk)
+- **Pay Link**: [Ray Payment Gateway](https://raypay.online)
 
 ## Smart Contract Links
 
 Ray leverages Solana smart contracts for payment processing, escrows, and more. Below are the contract details:
 
 - **Solana Program ID**: `2FCmh5tZDnu7V1wFjwj6JSuGs2nVkBViUKh8zkXYiRQF`
-- **Escrow Contract**: [View Contract](https://explorer.solana.com/address/YourEscrowContractAddress)
-- **Payment Contract**: [View Contract](https://explorer.solana.com/address/YourPaymentContractAddress)
+- **DID Contract**: [View Contract](https://explorer.solana.com/address/YourEscrowContractAddress)
 
 ## Repositories
 
 Ray's codebase is split into four repositories to handle various aspects of the app. You can find the code below:
 
-- **Repo 1**: [Ray Frontend](https://github.com/yourusername/ray-frontend)
-- **Repo 2**: [Ray Backend](https://github.com/yourusername/ray-backend)
-- **Repo 3**: [Ray Mobile App](https://github.com/yourusername/ray-mobile)
+- **Repo 1**: [Ray Frontend](https://github.com/raypayforchains/RayPayFrontend)
+- **Repo 2**: [Ray Backend](https://github.com/yourusername/RayPayBackend)
+- **Repo 3**: [Ray Mobile App](https://github.com/yourusername/RayPayMobileApp)
 - **Repo 4**: Ray Merchant Dashboard (**Coming Soon**)
 
 ## How It Works
