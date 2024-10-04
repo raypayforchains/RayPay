@@ -29,7 +29,7 @@ Ray's codebase is split into four repositories to handle various aspects of the 
 
 - **Repo 1**: [Ray Frontend](https://github.com/raypayforchains/RayPayFrontend)
 - **Repo 2**: [Ray Backend](https://github.com/raypayforchains/RayPayBackend)
-- **Repo 3**: [Ray Mobile App](https://github.com/raypayforchains/RayPayMobileApp)
+- **Repo 3**: [Ray Mobile App](https://github.com/raypayforchains/RapPayMobileApp)
 - **Repo 4**: Ray Merchant Dashboard (**Coming Soon**)
 
 ## How It Works
