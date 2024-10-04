@@ -25,6 +25,15 @@ For **businesses of all sizes**, RayPay offers an **effortless payment integrati
     <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727951114-portrait.png" alt="App Screenshot 3" width="200"/>
      <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727951122-portrait.png" alt="App Screenshot 3" width="200"/>
 </div>
+<br/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727949400-portrait.png" alt="App Screenshot 1" width="200"/>
+    <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727951100-portrait.png" alt="App Screenshot 2" width="200"/>
+    <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727951114-portrait.png" alt="App Screenshot 3" width="200"/>
+     <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727951122-portrait.png" alt="App Screenshot 4" width="200"/>
+     <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727951122-portrait.png" alt="App Screenshot 5" width="200"/>
+     <img src="https://raypay.s3.amazonaws.com/images/Screenshot_1727949236-portrait.png" alt="App Screenshot 5" width="200"/>
+</div>
 
 RayPay empowers businesses to be at the forefront of the Solana-powered payment revolution, making it simple to provide decentralized, secure, and lightning-fast transactions to their customers.
 
